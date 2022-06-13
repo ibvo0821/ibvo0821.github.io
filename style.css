@@ -13,12 +13,11 @@
 body {
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 100em;
     background: rgb(183, 183, 183);
     margin: 0 auto;
-    width: 50%;
+    width: 25%;
     margin-top: 400px;
-    
 }
 
 .navi {
